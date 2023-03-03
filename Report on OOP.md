@@ -1,13 +1,10 @@
 # <span style="background-color: black">Report on OOP</span>
 
 ## **Object-oriented programming (OOP) is a programming paradigm that emphasizes the use of objects and their interactions to design and build applications.**
-<br>
 
-## --> OOP focuses on the objects that developers want to manipulate rather than the logic required to manipulate them. This approach to programming is well-suited for programs that are large, complex and actively updated or maintained. This includes programs for manufacturing and design, as well as mobile applications; for example, OOP can be used for manufacturing system simulation software.
-<br>
+## OOP focuses on the objects that developers want to manipulate rather than the logic required to manipulate them. This approach to programming is well-suited for programs that are large, complex and actively updated or maintained. This includes programs for manufacturing and design, as well as mobile applications; for example, OOP can be used for manufacturing system simulation software.
 
-## --> OOP is based on the principles of encapsulation, inheritance, and polymorphism, which make it easier to manage complex codebases.
-<br>
+## OOP is based on the principles of encapsulation, inheritance, and polymorphism, which make it easier to manage complex codebases.
 
 ## In this report, we will discuss these three principles of OOP and provide code samples to illustrate their usage in refactoring a difficult-to-manage codebase.
 <br>
