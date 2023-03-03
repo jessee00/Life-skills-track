@@ -93,7 +93,7 @@ In the above example, the Animal class has two methods, eat and sleep. The Dog c
 * ### Polymorphism is the concept of using a single interface to represent multiple forms. 
 * ### It allows objects of different classes to be treated as if they are objects of the same class. 
 * ### Polymorphism is achieved through method overloading and method overriding.
-* ### let's think of a superclass called Animal that has a method called animalSound(). Subclasses of Animals could be Pigs, Cats, Dogs, Birds - And they also have their own implementation of an animal sound (the pig oinks, and the cat meows, etc.):
+* ### let's think of a superclass called Animal that has a method called animalSound(). Subclasses of Animals could be Pigs, Cats, Dogs, Birds - And they also have their own implementation of an animal sound (the pig oinks, and the cat meows, etc.).
 
 <span style="background-color: black">Example:</span>
 
@@ -131,11 +131,11 @@ In the above example, the Animal class has a method called makeSound. The Cat an
 
 # <span style="background-color: black">References</span>
 
-* ### [dotcms.com](https://www.dotcms.com/docs/latest/markdown-syntax#html-tags-%3Cblockquote%3E%3C-blockquote%3E) - Markdown syntax Editing 
-* ### [Dre How-To](https://www.youtube.com/watch?v=DLLrcr9u_XI) - youtube channel for Markdown
-* ### [VS-code Studio DOCS](https://code.visualstudio.com/docs/languages/markdown) - For Editing
-* ### [setscholars.net](https://setscholars.net/java-tutorials-for-beginners-java-inheritance/) - Tutorials for java Inheritance
-* ### [beginnersbook.com](https://beginnersbook.com/2013/03/polymorphism-in-java/) - Polymorphism in Java
-* ### [educba.com](https://www.educba.com/encapsulation-in-java/) - Encapsulation in Java
-* ### [W3schools.io](https://www.w3schools.io/file/markdown-text-highlight/) - For Text & Background Editing
-* ### [techtarget.com](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP) - For oops concepts
+* ### [dotcms.com](https://www.dotcms.com/docs/latest/markdown-syntax#html-tags-%3Cblockquote%3E%3C-blockquote%3E) - Markdown syntax Editing.
+* ### [Dre How-To](https://www.youtube.com/watch?v=DLLrcr9u_XI) - youtube channel for Markdown.
+* ### [VS-code Studio DOCS](https://code.visualstudio.com/docs/languages/markdown) - For Editing.
+* ### [setscholars.net](https://setscholars.net/java-tutorials-for-beginners-java-inheritance/) - Tutorials for java Inheritance.
+* ### [beginnersbook.com](https://beginnersbook.com/2013/03/polymorphism-in-java/) - Polymorphism in Java.
+* ### [educba.com](https://www.educba.com/encapsulation-in-java/) - Encapsulation in Java.
+* ### [W3schools.io](https://www.w3schools.io/file/markdown-text-highlight/) - For Text & Background Editing.
+* ### [techtarget.com](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP) - For oops concepts.
