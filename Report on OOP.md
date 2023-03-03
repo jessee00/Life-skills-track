@@ -58,10 +58,10 @@ In the above example, the Employee class has private properties like name, id, a
 
 # <span style="background-color: black">**Inheritance:**</span>
 
-* ### Inheritance is the concept of creating a new class from an existing class. 
-* ### The new class inherits all the properties and methods of the existing class and can also add its own properties and methods.
-* ### Inheritance promotes code reusability and reduces code duplication.
-* ### Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
+* Inheritance is the concept of creating a new class from an existing class. 
+* The new class inherits all the properties and methods of the existing class and can also add its own properties and methods.
+* Inheritance promotes code reusability and reduces code duplication.
+* Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
 
 <span style="background-color: black">Example:</span>
 
@@ -131,11 +131,11 @@ In the above example, the Animal class has a method called makeSound. The Cat an
 
 # <span style="background-color: black">References:</span>
 
-* ### [dotcms.com](https://www.dotcms.com/docs/latest/markdown-syntax#html-tags-%3Cblockquote%3E%3C-blockquote%3E) - Markdown syntax Editing.
-* ### [Dre How-To](https://www.youtube.com/watch?v=DLLrcr9u_XI) - youtube channel for Markdown.
-* ### [VS-code Studio DOCS](https://code.visualstudio.com/docs/languages/markdown) - For Editing.
-* ### [setscholars.net](https://setscholars.net/java-tutorials-for-beginners-java-inheritance/) - Tutorials for java Inheritance.
-* ### [beginnersbook.com](https://beginnersbook.com/2013/03/polymorphism-in-java/) - Polymorphism in Java.
-* ### [educba.com](https://www.educba.com/encapsulation-in-java/) - Encapsulation in Java.
-* ### [W3schools.io](https://www.w3schools.io/file/markdown-text-highlight/) - For Text & Background Editing.
-* ### [techtarget.com](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP) - For oops concepts.
+* [dotcms.com](https://www.dotcms.com/docs/latest/markdown-syntax#html-tags-%3Cblockquote%3E%3C-blockquote%3E) - Markdown syntax Editing.
+* [Dre How-To](https://www.youtube.com/watch?v=DLLrcr9u_XI) - youtube channel for Markdown.
+* [VS-code Studio DOCS](https://code.visualstudio.com/docs/languages/markdown) - For Editing.
+* [setscholars.net](https://setscholars.net/java-tutorials-for-beginners-java-inheritance/) - Tutorials for java Inheritance.
+* [beginnersbook.com](https://beginnersbook.com/2013/03/polymorphism-in-java/) - Polymorphism in Java.
+* [educba.com](https://www.educba.com/encapsulation-in-java/) - Encapsulation in Java.
+* [W3schools.io](https://www.w3schools.io/file/markdown-text-highlight/) - For Text & Background Editing.
+* [techtarget.com](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP) - For oops concepts.
