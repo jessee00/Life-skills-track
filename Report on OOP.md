@@ -1,4 +1,4 @@
-# <span style="background-color: black">Report on OOP</span>
+# <span style="background-color: black">Report on OOP:</span>
 
 ## **Object-oriented programming (OOP) is a programming paradigm that emphasizes the use of objects and their interactions to design and build applications.**
 
@@ -129,7 +129,7 @@ In the above example, the Animal class has a method called makeSound. The Cat an
 * ### By using these concepts, we can create robust and scalable applications.  
 <br>
 
-# <span style="background-color: black">References</span>
+# <span style="background-color: black">References:</span>
 
 * ### [dotcms.com](https://www.dotcms.com/docs/latest/markdown-syntax#html-tags-%3Cblockquote%3E%3C-blockquote%3E) - Markdown syntax Editing.
 * ### [Dre How-To](https://www.youtube.com/watch?v=DLLrcr9u_XI) - youtube channel for Markdown.
