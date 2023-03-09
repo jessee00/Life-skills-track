@@ -5,20 +5,17 @@
 This can take various forms, such as physical, verbal, or visual harassment. Quid pro quo harassment, which occurs when a person in authority demands sexual favors from another person in exchange for some benefit, is another form of sexual harassment.
 <br>
 
-### **The harmful effects of sexual harassment.**
-<hr>
+###  <ins>**The harmful effects of sexual harassment.** </ins>
  harmful effects can include physical and emotional trauma, stress, anxiety, and decreased job performance. It also highlights the fact that sexual harassment is a violation of human rights and can contribute to gender inequality and discrimination.
 
 
-### **Impact of bullying and harassment in the workplace.**
-<hr>
+### <ins>**Impact of bullying and harassment in the workplace.**</ins>
 
 Bullying and harassment is repeated, unwelcome behaviour that undermines an individual's dignity or creates an intimidating, hostile, degrading, humiliating or offensive environment.
 
 The various forms of bullying and harassment, including verbal abuse, physical intimidation, isolation, exclusion, and cyberbullying. The video also highlights the impact of bullying and harassment on individuals and the workplace, including decreased productivity, low morale, high turnover, and increased absenteeism and healthcare costs.
 
-###  **What kinds of behaviour cause sexual harassment?**
-<hr>
+###  <ins>**What kinds of behaviour cause sexual harassment?**</ins>
 
 Sexual harassment, which is a type of violence based on gender, can take place in various environments, including workplaces, educational institutions, public areas, and even online. The actions or conduct that may result in sexual harassment include the following:
 
@@ -32,8 +29,7 @@ Sexual harassment, which is a type of violence based on gender, can take place i
 
 * **Sexual coercion:** This involves using threats, intimidation, or force to obtain sexual favours from someone.
 
-### **What would you do in case you face or witness any  incident or repeated incidents of such behaviour?**
-<hr>
+### <ins>**What would you do in case you face or witness any  incident or repeated incidents of such behaviour?**</ins>
 
  **If you face or witness any incident or repeated incidents of sexual harassment, you should take the following steps:**
 
@@ -48,10 +44,10 @@ Sexual harassment, which is a type of violence based on gender, can take place i
 * **Take action:** If the harassment continues, consider taking legal action or filing a complaint with a relevant authority.        
     
 
-### **Conclusion:**<hr>
+### <ins>**Conclusion:**</ins>
 In conclusion, sexual harassment is a serious issue that requires awareness, education, and action. By knowing the types of behaviour that constitute sexual harassment and taking appropriate steps to prevent it, we can create safer and more respectful environments for everyone.
 
-### **References:**<hr>
+### <ins>**References:**</ins>
 * [Sexual Harassment Overview](https://www.youtube.com/watch?v=Ue3BTGW3uRQ) - Youtube video 
 * [What Does Bullying and Harassment Mean for You and Your Workplace?](https://www.youtube.com/watch?v=u7e2c6v1oDs) - Youtube video - 2
 * [Workplace Bullying vs Sexual Harassment - Smithey Law Group](https://smitheylaw.com/know-the-difference-between-workplace-bullying-and-sexual-harassment/) - Article
