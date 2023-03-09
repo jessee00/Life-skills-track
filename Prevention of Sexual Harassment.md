@@ -7,13 +7,13 @@ This can take various forms, such as physical, verbal, or visual harassment. Qui
 
 ###  <ins>**The harmful effects of sexual harassment.** </ins>
  harmful effects can include physical and emotional trauma, stress, anxiety, and decreased job performance. It also highlights the fact that sexual harassment is a violation of human rights and can contribute to gender inequality and discrimination.
-
+ <br>
 
 ### <ins>**Impact of bullying and harassment in the workplace.**</ins>
 
 Bullying and harassment is repeated, unwelcome behaviour that undermines an individual's dignity or creates an intimidating, hostile, degrading, humiliating or offensive environment.
-
 The various forms of bullying and harassment, including verbal abuse, physical intimidation, isolation, exclusion, and cyberbullying. The video also highlights the impact of bullying and harassment on individuals and the workplace, including decreased productivity, low morale, high turnover, and increased absenteeism and healthcare costs.
+<br>
 
 ###  <ins>**What kinds of behaviour cause sexual harassment?**</ins>
 
@@ -28,6 +28,7 @@ Sexual harassment, which is a type of violence based on gender, can take place i
 * **Non-verbal harassment:** This includes any form of gestures, facial expressions, or body language that are unwanted or unwelcome.
 
 * **Sexual coercion:** This involves using threats, intimidation, or force to obtain sexual favours from someone.
+<br>
 
 ### <ins>**What would you do in case you face or witness any  incident or repeated incidents of such behaviour?**</ins>
 
@@ -41,11 +42,12 @@ Sexual harassment, which is a type of violence based on gender, can take place i
 
 * **Seek support:** Speak to a trusted friend, family member, or mental health professional for emotional support.
 
-* **Take action:** If the harassment continues, consider taking legal action or filing a complaint with a relevant authority.        
+* **Take action:** If the harassment continues, consider taking legal action or filing a complaint with a relevant authority.  
+<br>      
     
-
 ### <ins>**Conclusion:**</ins>
 In conclusion, sexual harassment is a serious issue that requires awareness, education, and action. By knowing the types of behaviour that constitute sexual harassment and taking appropriate steps to prevent it, we can create safer and more respectful environments for everyone.
+<br>
 
 ### <ins>**References:**</ins>
 * [Sexual Harassment Overview](https://www.youtube.com/watch?v=Ue3BTGW3uRQ) - Youtube video 
