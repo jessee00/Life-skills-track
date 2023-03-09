@@ -1,6 +1,6 @@
 # Prevention of Sexual Harassment 
 
-### Sexual harassment refers to unwanted and unacceptable sexual advances, remarks, or actions that make an environment hostile or intimidating. 
+**Sexual harassment refers to unwanted and unacceptable sexual advances, remarks, or actions that make an environment hostile or intimidating.**
 
 This can take various forms, such as physical, verbal, or visual harassment. Quid pro quo harassment, which occurs when a person in authority demands sexual favors from another person in exchange for some benefit, is another form of sexual harassment.
 <br>
@@ -8,7 +8,7 @@ This can take various forms, such as physical, verbal, or visual harassment. Qui
 ### **The harmful effects of sexual harassment.**
 <hr>
  harmful effects can include physical and emotional trauma, stress, anxiety, and decreased job performance. It also highlights the fact that sexual harassment is a violation of human rights and can contribute to gender inequality and discrimination.
-<br><br>
+
 
 ### **Impact of bullying and harassment in the workplace.**
 <hr>
@@ -16,7 +16,6 @@ This can take various forms, such as physical, verbal, or visual harassment. Qui
 Bullying and harassment is repeated, unwelcome behaviour that undermines an individual's dignity or creates an intimidating, hostile, degrading, humiliating or offensive environment.
 
 The various forms of bullying and harassment, including verbal abuse, physical intimidation, isolation, exclusion, and cyberbullying. The video also highlights the impact of bullying and harassment on individuals and the workplace, including decreased productivity, low morale, high turnover, and increased absenteeism and healthcare costs.
-<br><br>
 
 ###  **What kinds of behaviour cause sexual harassment?**
 <hr>
@@ -32,7 +31,6 @@ Sexual harassment, which is a type of violence based on gender, can take place i
 * **Non-verbal harassment:** This includes any form of gestures, facial expressions, or body language that are unwanted or unwelcome.
 
 * **Sexual coercion:** This involves using threats, intimidation, or force to obtain sexual favours from someone.
-<br><br>
 
 ### **What would you do in case you face or witness any  incident or repeated incidents of such behaviour?**
 <hr>
