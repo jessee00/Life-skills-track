@@ -1,6 +1,6 @@
 # Learning Process
 
-**1.**  **The Feynman Technique is a method of learning and understanding complex concepts developed by physicist Richard Feynman.**
+**1.**  **The Feynman Technique is a method of learning and understanding complex concepts developed by physicist Richard Feynman.--**
  It involves breaking down the topic into simple language and teaching it to someone else as if they were a beginner. By doing this, you can identify gaps in your own understanding and fill them in with further research. The technique also emphasizes the use of analogies and examples to explain difficult concepts, and encourages constant revision and simplification of the material until it can be easily understood.
 
 ### **2.** **The different ways to implement the Feynman Technique in your learning process include:**
