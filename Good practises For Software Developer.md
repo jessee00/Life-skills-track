@@ -1,4 +1,4 @@
-# Tiny Habits
+# Good Practices for Software Development
 
 ## 1. What is your one major takeaway from each one of the 6 sections. So 6 points in total.
 
@@ -9,7 +9,7 @@
 - Be aware and mindful of other team members: Consolidate your questions into a single message, be available for real-time conversations, and choose communication mediums wisely.
 - Doing things with 100% involvement: Practice deep work, eliminate distractions, track your time, manage your food and exercise, and treat remote work as seriously as in-person work.
 
-## 2. Your takeaways from the video in as much detail as possible.
+## 2. Which area do you think you need to improve on? What are your ideas to make progress in that area?
 
 - Firstly, I will try to eliminate as many distractions as possible. I will block social media sites and apps during work hours, and use tools like TimeLimit or Freedom to help me stay focused.
 
